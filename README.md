@@ -7,8 +7,8 @@ In this notebook, I will be putting my recommendation skills to use on real data
 By following the table of contents, I will build out a number of different methods for making recommendations.
 
 Table of Contents
-# I. Exploratory Data Analysis
-# II. Rank Based Recommendations
+- I. Exploratory Data Analysis
+- II. Rank Based Recommendations
 III. User-User Based Collaborative Filtering
 IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
 V. Matrix Factorization
