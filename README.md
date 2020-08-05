@@ -12,3 +12,15 @@ By following the table of contents, I will build out a number of different metho
 - IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
 - V. Matrix Factorization
 - VI. Extras & Concluding
+
+# extra requirements needed
+if you feel it's necessary to see the underlying data raw, then you will need the two files
+
+- articles_community.csv
+- user_item_interactions.csv
+
+these two files should be stored in a data folder.
+
+# Conclusion
+with regards to recoomendations, it was interesting to see the relationship between the latent features and the accurracy of predictions in the whole.
+A goo danalysis can be seen with useful functions for future analysis.
